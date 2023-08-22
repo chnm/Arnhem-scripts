@@ -1,6 +1,7 @@
 #!/usr/bin/python3 
 
 import pandas as pd
+import os
 
 excel_file = "~/Downloads/arnhem.xlsx"
 
@@ -11,8 +12,10 @@ data.columns = ["city", "state", "country"]
 
 unique_data = data.drop_duplicates()
 
-output_csv = 'locations.csv'
+output_dir = "data"
+os.makedirs(output_dir, exist_ok=True)
+output_csv = os.path.join(output_dir, 'locations.csv')
 
 unique_data.to_csv(output_csv, index=False)
 
-print("CSV file created.")
+print(f"CSV file created in '{output_dir}'.")
