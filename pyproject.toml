@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "arnhem-scripts"
+version = "0.1.0"
+description = "Data prep scripts for the Arnhem Postal History Project"
+authors = ["Jason Heppler <jason.heppler@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "arnhem_scripts"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.0.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
