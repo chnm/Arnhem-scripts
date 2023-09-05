@@ -15,6 +15,7 @@ data = pd.read_excel(excel_file, usecols=columns_to_extract, sheet_name="Box 3 F
 
 # Combine first name and last name columns into a single "full_name" column
 data["full_name"] = data["Addressee First Name"] + " " + data["Addressee Last Name"]
+data["full_address"] = data["Addressee Town/City"].astype(str) + " " + data["Addressee Province/State"].astype(str) + " " + data["Addressee Country"].astype(str)
 
 # Rename columns to lowercase and replace spaces with underscores
 data.columns = [col.lower().replace('/', '_') for col in data.columns]
