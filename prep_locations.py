@@ -18,4 +18,4 @@ output_csv = os.path.join(output_dir, 'locations.csv')
 
 unique_data.to_csv(output_csv, index=False)
 
-print(f"CSV file created in '{output_dir}'.")
+print(f"CSV file of locations created in the '{output_dir}' directory.")
