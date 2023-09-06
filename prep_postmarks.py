@@ -43,8 +43,8 @@ for index, row in data.iterrows():
     new_data = pd.concat([new_data, pd.DataFrame({'date': [row['Date 1']], 'location': [row['Location 1']]})])
     new_data = pd.concat([new_data, pd.DataFrame({'date': [row['Date 2']], 'location': [row['Location 2']]})])
 
-# Now, we ensure that the date-location value is unique 
-# new_data = new_data.drop_duplicates(subset=['date', 'location'])
+# Drop rows that have no location 
+new_data = new_data.dropna(subset=['location'])
 
 output_dir = "data"
 os.makedirs(output_dir, exist_ok=True)
