@@ -1,0 +1,392 @@
+- city: '', country: Netherlands, latitude: '52.243498', longitude: '5.634323', state: ''
+- city: 'Köln', country: Germany, latitude: '50.938361', longitude: '6.959974', state: North Rhine Westphalia
+- city: '''s Gravenhage''', country: Netherlands, latitude: '52.074946', longitude: '4.269680', state: South Holland
+- city: 4th Parachute Brigade Camp Office, country: '', latitude: '', longitude: '', state: ''
+- city: Aachen, country: Germany, latitude: '50.776351', longitude: '6.083862', state: North Rhine - Westphalia
+- city: Aalten, country: Netherlands, latitude: '51.914182', longitude: '6.577399', state: Gelderland
+- city: Alkmaar, country: Netherlands, latitude: '52.600854', longitude: '4.817099', state: North Holland
+- city: Alkmaar, country: Netherlands, latitude: '52.600854', longitude: '4.817099', state: ''
+- city: Almelo, country: Netherlands, latitude: '52.356796', longitude: '6.667253', state: Overijssel
+- city: Alphen bij Tilburg, country: Netherlands, latitude: '', longitude: '', state: North Brabant
+- city: Amersfoort, country: Netherlands, latitude: '52.156250', longitude: '5.389694', state: Utrecht
+- city: Amsterdam, country: Netherlands, latitude: '52.373080', longitude: '4.892453', state: North Brabant
+- city: Amsterdam, country: '', latitude: '52.373080', longitude: '4.892453', state: ''
+- city: Amsterdam, country: Netherlands, latitude: '52.373080', longitude: '4.892453', state: North Holland
+- city: Amsterdam - Sumatrastraat, country: '', latitude: '52.360545', longitude: '4.936680', state: ''
+- city: Amsterdam Central, country: Netherlands, latitude: '52.378334', longitude: '4.900322', state: North Holland
+- city: Amsterdam CS, country: '', latitude: '52.378901', longitude: '4.900581', state: ''
+- city: Amsterdam Franked, country: '', latitude: '', longitude: '', state: ''
+- city: Amsterdam W, country: Netherlands, latitude: '52.373080', longitude: '4.892453', state: North Holland
+- city: Antwerp, country: Belgium, latitude: '51.221110', longitude: '4.399708', state: Antwerp
+- city: Anvers (Antwerp), country: Belgium, latitude: '51.066982', longitude: '4.309767', state: Flanders
+- city: Apeldoorn, country: '', latitude: '52.179574', longitude: '5.930077', state: ''
+- city: Apeldoorn, country: Netherlands, latitude: '52.179574', longitude: '5.930077', state: Gelderland
+- city: Arhhem, country: Netherlands, latitude: '', longitude: '', state: Gelderland
+- city: Arnheim, country: Netherlands, latitude: '51.984257', longitude: '5.910857', state: Gelderland
+- city: Arnhem, country: '', latitude: '52.005664', longitude: '5.876235', state: ''
+- city: Arnhem, country: Netherlands, latitude: '52.005664', longitude: '5.876235', state: Gelderland
+- city: Assendelft, country: Netherlands, latitude: '52.468111', longitude: '4.744961', state: North Holland
+- city: Axel, country: Netherlands, latitude: '51.267395', longitude: '3.907159', state: Zeeland
+- city: Baarland, country: Netherlands, latitude: '51.408433', longitude: '3.885241', state: Zeeland
+- city: Baarn, country: Netherlands, latitude: '52.211150', longitude: '5.293091', state: Utrecht
+- city: Bad Godesberg af Rhein, country: Germany, latitude: '', longitude: '', state: North Rhie-Westphalia
+- city: Bad Neuheim, country: Germany, latitude: '', longitude: '', state: Hesse
+- city: Bandoeg, country: Dutch East Indies, latitude: '', longitude: '', state: West Java
+- city: Bandoeng, country: Dutch East Indies, latitude: '', longitude: '', state: Java
+- city: Bandoeng, country: Dutch East Indies, latitude: '', longitude: '', state: Java
+- city: Barranquilla, country: Colombia, latitude: '11.010192', longitude: '-74.823179', state: Atlantico
+- city: Batavia, country: Dutch East Indies, latitude: '', longitude: '', state: Java
+- city: Bemmel, country: Netherlands, latitude: '51.891538', longitude: '5.898481', state: Gelderland
+- city: Bensberg, country: Germany, latitude: '50.966242', longitude: '7.161443', state: North Rhine-Westphalia
+- city: Bergen  op Zoom, country: '', latitude: '51.494476', longitude: '4.287154', state: ''
+- city: Bergen op Zoom, country: Netherlands, latitude: '51.494476', longitude: '4.287154', state: North Brabant
+- city: Berkeley, country: United States, latitude: '37.870839', longitude: '-122.272863', state: California
+- city: Berlin-Halensee, country: Germany, latitude: '52.499548', longitude: '13.284942', state: Berlin
+- city: 'Berlin, NW', country: Germany, latitude: '50.867435', longitude: '6.096280', state: Berlin-Brandenburg
+- city: Béziers, country: France, latitude: '43.342656', longitude: '3.213131', state: Hérault
+- city: Bielefeld, country: Germany, latitude: '52.019101', longitude: '8.531007', state: Ostwestfalen-Lippe
+- city: Bilthoven, country: Netherlands, latitude: '52.128969', longitude: '5.204613', state: Utrecht
+- city: Boxtel, country: Netherlands, latitude: '51.589060', longitude: '5.315795', state: North Brabant
+- city: Braunschweig (Brunswick), country: Germany, latitude: '52.261227', longitude: '10.588201', state: Lower Saxony
+- city: Breda, country: '', latitude: '51.588785', longitude: '4.776024', state: ''
+- city: Breda, country: Netherlands, latitude: '51.588785', longitude: '4.776024', state: North Brabant
+- city: Breda - Nieuwehaagouk, country: '', latitude: '', longitude: '', state: ''
+- city: Bremen, country: Germany, latitude: '53.075820', longitude: '8.807165', state: Lower Saxony
+- city: Brooklyn, country: United States, latitude: '40.652601', longitude: '-73.949721', state: New York
+- city: 'Brooklyn, New York', country: United States, latitude: '40.652601', longitude: '-73.949721', state: New York
+- city: Brussels, country: Belgium, latitude: '50.846557', longitude: '4.351697', state: Brussels
+- city: Buitenzorg, country: Dutch East Indies, latitude: '', longitude: '', state: West Java
+- city: Bussum, country: '', latitude: '52.277366', longitude: '5.163065', state: ''
+- city: Bussum, country: Netherlands, latitude: '52.277366', longitude: '5.163065', state: North Holland
+- city: Cherebon, country: Dutch East Indies, latitude: '', longitude: '', state: Java
+- city: Chicago, country: '', latitude: '41.875562', longitude: '-87.624421', state: ''
+- city: Colijnsplaat, country: Netherlands, latitude: '51.599906', longitude: '3.847350', state: Zeeland
+- city: Commando Noord-Brabant, country: '', latitude: '51.607041', longitude: '4.722144', state: ''
+- city: Covered, country: Italy, latitude: '', longitude: '', state: Covered
+- city: Covered, country: nan, latitude: '28.067058', longitude: '112.030104', state: nan
+- city: Covered, country: Norway, latitude: '', longitude: '', state: nan
+- city: Covered, country: Switzerland, latitude: '47.050249', longitude: '9.445266', state: nan
+- city: Covered, country: Netherlands, latitude: '', longitude: '', state: ''
+- city: Covered, country: England, latitude: '51.558184', longitude: '-0.118112', state: Covered
+- city: De Bilt, country: Netherlands, latitude: '52.144559', longitude: '5.173777', state: Utrecht
+- city: DeKnijpe, country: '', latitude: '', longitude: '', state: ''
+- city: Delft, country: Netherlands, latitude: '52.011402', longitude: '4.358390', state: South Holland
+- city: Delft, country: Netherlands, latitude: '52.011402', longitude: '4.358390', state: South Holland
+- city: Delft, country: Netherlands, latitude: '52.011402', longitude: '4.358390', state: ''
+- city: Den haag, country: Netherlands, latitude: '52.074946', longitude: '4.269680', state: South Holland
+- city: Den Haag, country: Netherlands, latitude: '52.074946', longitude: '4.269680', state: South Holland
+- city: Den Haag, country: Netherlands, latitude: '52.074946', longitude: '4.269680', state: South Holland
+- city: Den Haag (The Hague), country: Netherlands, latitude: '52.102046', longitude: '4.298201', state: South Holland
+- city: Den Helder, country: Netherlands, latitude: '52.952989', longitude: '4.826759', state: North Holland
+- city: Den Helder, country: Netherlands, latitude: '52.952989', longitude: '4.826759', state: ''
+- city: Den Oever, country: Netherlands, latitude: '52.933560', longitude: '5.030869', state: North Holland
+- city: Dengm.*, country: Netherlands, latitude: '', longitude: '', state: ''
+- city: Deventer, country: Netherlands, latitude: '52.269574', longitude: '6.236340', state: Overjissel
+- city: Deventer, country: Netherlands, latitude: '52.269574', longitude: '6.236340', state: Overijssel
+- city: Deventer, country: '', latitude: '52.269574', longitude: '6.236340', state: ''
+- city: Diest, country: Belgium, latitude: '50.984432', longitude: '5.050434', state: Flemish Brabant
+- city: Dinteloord, country: Netherlands, latitude: '51.633948', longitude: '4.368031', state: North Brabant
+- city: Dinxperlo, country: Netherlands, latitude: '51.863757', longitude: '6.487987', state: Gelderland
+- city: Doesburg, country: '', latitude: '52.018750', longitude: '6.151558', state: ''
+- city: Domburg, country: Netherlands, latitude: '51.563214', longitude: '3.496728', state: Zeeland
+- city: Doorn, country: Netherlands, latitude: '52.033316', longitude: '5.345596', state: Utrecht
+- city: Doorwerth-Renkum, country: Netherlands, latitude: '51.978869', longitude: '5.804845', state: Gelderland
+- city: Dordrecht, country: Netherlands, latitude: '51.795881', longitude: '4.677935', state: South Holland
+- city: Dordrecht, country: '', latitude: '51.795881', longitude: '4.677935', state: ''
+- city: Dornach/ bei Basel, country: Switzerland, latitude: '', longitude: '', state: Solothurn
+- city: Dortmund, country: Germany, latitude: '51.514227', longitude: '7.465279', state: North Rhine Westphalia
+- city: Drachten, country: Netherlands, latitude: '53.109111', longitude: '6.094810', state: Friesland
+- city: Dresden A 24, country: Germany, latitude: '51.049329', longitude: '13.738144', state: Saxony
+- city: Driebergen, country: '', latitude: '-33.703432', longitude: '18.984387', state: ''
+- city: Ede, country: '', latitude: '52.071683', longitude: '5.745511', state: ''
+- city: Ede, country: Netherlands, latitude: '52.071683', longitude: '5.745511', state: Gelderland
+- city: 'Ede', country: '', latitude: '52.071683', longitude: '5.745511', state: ''
+- city: Ederveen, country: '', latitude: '52.061306', longitude: '5.577591', state: ''
+- city: Edinburgh, country: 'Scotland, United Kingdom, Great Britain', latitude: '', longitude: '', state: Scotland
+- city: 'Edobori, Nishi Ward', country: Japan, latitude: '34.687027', longitude: '135.490015', state: Osaka
+- city: Eemdijk-Spakenburg, country: Netherlands, latitude: '52.268786', longitude: '5.351167', state: Utrecht
+- city: Eindhoven, country: '', latitude: '51.439265', longitude: '5.478633', state: ''
+- city: Eindhoven, country: Netherlands, latitude: '51.448557', longitude: '5.450123', state: North Brabant
+- city: Elden, country: Netherlands, latitude: '51.959865', longitude: '5.880057', state: Gelderland
+- city: Enger, country: Germany, latitude: '52.139402', longitude: '8.558882', state: North Rhine-Westphalia
+- city: Enschede, country: Netherlands, latitude: '52.220986', longitude: '6.894054', state: Overjissel
+- city: Enschede, country: '', latitude: '52.223363', longitude: '6.870596', state: ''
+- city: Enspijk, country: Netherlands, latitude: '51.883751', longitude: '5.212994', state: Gelderland
+- city: Essen, country: Germany, latitude: '51.458224', longitude: '7.015817', state: North-Rhine-Westphalia
+- city: Feldpost, country: '', latitude: '50.535206', longitude: '7.041941', state: ''
+- city: Field Post Office 251, country: '', latitude: '46.520697', longitude: '-80.027326', state: ''
+- city: Field Post Office 504, country: '', latitude: '46.520697', longitude: '-80.027326', state: ''
+- city: Fijnaart, country: '', latitude: '51.635283', longitude: '4.467313', state: ''
+- city: Flims Halohaus, country: Switzerland, latitude: '', longitude: '', state: Graubunden
+- city: Fortress Holland, country: Netherlands, latitude: '52.331090', longitude: '5.069628', state: nan
+- city: Genderen/Meeuwen, country: Netherlands, latitude: '', longitude: '', state: North Brabant
+- city: Geneve, country: Switzerland, latitude: '46.201756', longitude: '6.146601', state: Geneva
+- city: Gent, country: Belgium, latitude: '51.053829', longitude: '3.725012', state: East Flanders
+- city: Gibraltar, country: England, latitude: '51.791921', longitude: '-0.902230', state: Gibraltar
+- city: Goes, country: '', latitude: '51.503103', longitude: '3.889760', state: ''
+- city: Goes, country: Netherlands, latitude: '51.503103', longitude: '3.889760', state: Zeeland
+- city: Goes, country: Netherlands, latitude: '51.503103', longitude: '3.889760', state: Zeeland
+- city: Goor, country: Netherlands, latitude: '52.232156', longitude: '6.580900', state: Overjissel
+- city: Gorichem, country: Netherlands, latitude: '51.830215', longitude: '4.976390', state: South Holland
+- city: Gorinchem, country: Netherlands, latitude: '51.842187', longitude: '4.974600', state: South Holland
+- city: Gouda, country: Netherlands, latitude: '52.018119', longitude: '4.711122', state: South Holland
+- city: Grand Rapids, country: United States, latitude: '42.963243', longitude: '-85.667864', state: Michigan
+- city: Grathem, country: '', latitude: '51.191725', longitude: '5.858997', state: ''
+- city: Grave, country: Netherlands, latitude: '51.759650', longitude: '5.741113', state: North Brabant
+- city: Great Neck (Lake Success), country: United States, latitude: '40.767615', longitude: '-73.716828', state: New York
+- city: Grijpskerke, country: Netherlands, latitude: '51.534067', longitude: '3.561083', state: Groningen
+- city: Groningen, country: Netherlands, latitude: '53.219065', longitude: '6.568008', state: North Holland
+- city: Groningen, country: Netherlands, latitude: '53.219065', longitude: '6.568008', state: Groningen
+- city: Groningen, country: '', latitude: '53.219065', longitude: '6.568008', state: ''
+- city: H.M. Heemskerk, country: Netherlands, latitude: '', longitude: '', state: North Holland
+- city: Haaren, country: Netherlands, latitude: '51.603613', longitude: '5.227228', state: North Brabant
+- city: Haarlem, country: '', latitude: '52.388532', longitude: '4.638805', state: ''
+- city: Haarlem, country: Netherlands, latitude: '52.383706', longitude: '4.643560', state: North Holland
+- city: 'Haarlem', country: '', latitude: '52.388532', longitude: '4.638805', state: ''
+- city: Haarlem Poort, country: Netherlands, latitude: '', longitude: '', state: North Holland
+- city: Haarlem-Amsterdam, country: Netherlands, latitude: '', longitude: '', state: North Holland
+- city: Haelen (L.b.), country: '', latitude: '51.121646', longitude: '2.638316', state: ''
+- city: Halfweg, country: Netherlands, latitude: '52.382606', longitude: '4.754690', state: North Holland
+- city: Hamburg, country: Germany, latitude: '53.550341', longitude: '10.000654', state: Hamburg
+- city: Hardinxveld, country: Netherlands, latitude: '51.821131', longitude: '4.888808', state: South Holland
+- city: Harmelen, country: Netherlands, latitude: '52.091450', longitude: '4.963963', state: Utrecht
+- city: Heelerheide, country: Netherlands, latitude: '', longitude: '', state: Limburg
+- city: Heer bij Maastricht, country: Netherlands, latitude: '', longitude: '', state: Limburg
+- city: Heerlen, country: '', latitude: '50.877524', longitude: '5.981507', state: ''
+- city: Heerlen, country: Netherlands, latitude: '50.877524', longitude: '5.981507', state: Limburg
+- city: 'Heetkole, Voorst', country: Netherlands, latitude: '', longitude: '', state: Gelderland
+- city: Hellevoetsluis, country: Netherlands, latitude: '51.833921', longitude: '4.143674', state: South Holland
+- city: Helmond, country: '', latitude: '51.479096', longitude: '5.655769', state: ''
+- city: Helmond, country: Netherlands, latitude: '51.473568', longitude: '5.667109', state: North Brabant
+- city: Heusden, country: Netherlands, latitude: '51.688886', longitude: '5.165507', state: North Brabant
+- city: Hildburghausen, country: Germany, latitude: '50.426633', longitude: '10.730026', state: Thüringen
+- city: Hillegom, country: '', latitude: '52.294826', longitude: '4.572971', state: ''
+- city: Hillegom, country: Netherlands, latitude: '52.294826', longitude: '4.572971', state: South Holland
+- city: Hilversum, country: '', latitude: '52.224138', longitude: '5.171940', state: ''
+- city: Hilversum, country: Netherlands, latitude: '52.231587', longitude: '5.173494', state: North Holland
+- city: Hoensbroek-Treebeek, country: '', latitude: '50.930792', longitude: '5.935023', state: ''
+- city: Hooghalen Oost, country: Netherlands, latitude: '52.051864', longitude: '4.271581', state: Midden-Drenthe
+- city: Hoogland, country: Netherlands, latitude: '52.187247', longitude: '5.376222', state: Utrecht
+- city: 'Illegible, Covered, Zaa* [Possibly Zaandam]', country: Netherlands, latitude: '', longitude: '', state: nan
+- city: Ireton, country: United States, latitude: '42.974705', longitude: '-96.318346', state: Iowa
+- city: Jackson Heights, country: United States, latitude: '40.755656', longitude: '-73.885776', state: Long Island/New York
+- city: Kapelle bij Goes, country: Netherlands, latitude: '', longitude: '', state: Zeeland
+- city: Kapelle on Zuid Beveland in Zeeland*, country: Netherlands, latitude: '', longitude: '', state: Zeeland
+- city: Katwijk aan zee, country: Netherlands, latitude: '52.204898', longitude: '4.396598', state: nan
+- city: 'Kempston', country: England, latitude: '52.119201', longitude: '-0.493015', state: Bedfordshire
+- city: Kerkrade, country: Netherlands, latitude: '50.874909', longitude: '6.059385', state: Limburg
+- city: Kirn, country: '', latitude: '49.786104', longitude: '7.458404', state: ''
+- city: Kirn, country: Germany, latitude: '49.786104', longitude: '7.458404', state: Rheinland-Pfalz
+- city: Klosters-platz, country: Switzerland, latitude: '46.868288', longitude: '9.882160', state: Graubunden
+- city: Koewacht, country: Netherlands, latitude: '51.228964', longitude: '3.970215', state: Zeeland
+- city: Kolbermoor, country: '', latitude: '47.855662', longitude: '12.059580', state: ''
+- city: Kopenhagen V, country: Denmark, latitude: '55.686724', longitude: '12.570072', state: Kopenhagen
+- city: Krakau, country: 'Poland ', latitude: '50.046943', longitude: '19.997153', state: Krakow
+- city: Krommenie, country: Netherlands, latitude: '52.495456', longitude: '4.766495', state: North Holland
+- city: La Haye (Den Haag), country: Netherlands, latitude: '52.102046', longitude: '4.298201', state: South Holland
+- city: Lage Zwaluwe, country: '', latitude: '51.708939', longitude: '4.704323', state: ''
+- city: Lage-Zwaluwe, country: Netherlands, latitude: '51.708939', longitude: '4.704323', state: North Brabant
+- city: Larchmont, country: United States, latitude: '40.927877', longitude: '-73.751798', state: New York
+- city: Laren, country: Netherlands, latitude: '52.256589', longitude: '5.225193', state: North Holland
+- city: Lausanne, country: Switzerland, latitude: '46.521827', longitude: '6.632703', state: Vaud
+- city: Leerbroek, country: Netherlands, latitude: '51.907474', longitude: '5.051215', state: Utrecht
+- city: Leeuwarden, country: '', latitude: '53.200594', longitude: '5.791855', state: ''
+- city: Leeuwarden- Station, country: '', latitude: '53.196477', longitude: '5.792985', state: ''
+- city: Leeuwarden-Station, country: '', latitude: '53.196477', longitude: '5.792985', state: ''
+- city: Leiden, country: Netherlands, latitude: '52.159475', longitude: '4.490884', state: South Holland
+- city: Leidschendam, country: Netherlands, latitude: '52.086165', longitude: '4.394677', state: South Holland
+- city: Leidschendam, country: '', latitude: '52.086165', longitude: '4.394677', state: ''
+- city: Leipzig, country: Germany, latitude: '51.340632', longitude: '12.374733', state: Saxony
+- city: Limburg, country: Netherlands, latitude: '51.201520', longitude: '5.904630', state: Gelderland
+- city: Lisboa Central, country: Portugal, latitude: '38.714225', longitude: '-9.140899', state: Estremadura
+- city: Loenen, country: Netherlands, latitude: '52.117480', longitude: '6.018526', state: Gelderland
+- city: London, country: England, latitude: '51.507336', longitude: '-0.127650', state: London
+- city: London, country: '', latitude: '51.489334', longitude: '-0.144055', state: ''
+- city: London E. L. I, country: 'England, United Kingdon', latitude: '', longitude: '', state: England
+- city: London E.C. 2, country: England, latitude: '', longitude: '', state: London
+- city: London NW 8, country: England, latitude: '', longitude: '', state: London
+- city: London W1, country: England, latitude: '51.507336', longitude: '-0.127650', state: London
+- city: Loosduinen, country: Netherlands, latitude: '52.053157', longitude: '4.234829', state: South Holland
+- city: Ludwigshafen am Rhein, country: Germany, latitude: '49.470411', longitude: '8.438157', state: Rhineland-Palatinate Land
+- city: Luik (Lieges), country: Belgium, latitude: '', longitude: '', state: Luik
+- city: Maastricht, country: '', latitude: '50.851244', longitude: '5.690977', state: ''
+- city: Maastricht, country: Netherlands, latitude: '50.857985', longitude: '5.696988', state: Limburg
+- city: Madrid, country: Spain, latitude: '40.416705', longitude: '-3.703583', state: Madrid
+- city: Malaga, country: Spain, latitude: '36.721303', longitude: '-4.421637', state: Andalusia
+- city: Mannheim, country: Germany, latitude: '49.489291', longitude: '8.467310', state: Karlsruhe
+- city: Maracaibo, country: Venezuela, latitude: '10.649810', longitude: '-71.644360', state: Zulia
+- city: Maritime Mail, country: '', latitude: '46.161157', longitude: '-1.162620', state: ''
+- city: Mauthausen, country: '', latitude: '48.240406', longitude: '14.516267', state: ''
+- city: 'Mechelen', country: Belgium, latitude: '51.028138', longitude: '4.480345', state: Antwerp
+- city: Meerssen, country: Netherlands, latitude: '50.904709', longitude: '5.735208', state: Limburg
+- city: Merano, country: Italy, latitude: '46.669555', longitude: '11.159419', state: Bolzano
+- city: Middelburg, country: '', latitude: '51.499678', longitude: '3.613737', state: ''
+- city: Middelburg, country: Netherlands, latitude: '51.499678', longitude: '3.613737', state: Zeeland
+- city: Milan, country: Italy, latitude: '45.464194', longitude: '9.189635', state: Milano
+- city: Miskolc, country: Hungary, latitude: '48.103064', longitude: '20.790043', state: Northern Hungary
+- city: Moordrecht, country: Netherlands, latitude: '51.986507', longitude: '4.669831', state: South Holland
+- city: Mühlberg, country: '', latitude: '50.868179', longitude: '10.825142', state: ''
+- city: nan, country: Netherlands, latitude: '51.924154', longitude: '4.478633', state: North Holland
+- city: nan, country: Netherlands, latitude: '51.924154', longitude: '4.478633', state: nan
+- city: nan, country: nan, latitude: '29.364473', longitude: '112.390565', state: nan
+- city: nan, country: 'Dutch East Indies, Indonesia', latitude: '', longitude: '', state: nan
+- city: Neeritter, country: '', latitude: '51.162826', longitude: '5.802829', state: ''
+- city: New York, country: United States, latitude: '40.712728', longitude: '-74.006015', state: NewYork
+- city: New York, country: United States, latitude: '40.712728', longitude: '-74.006015', state: New York
+- city: Nieuw Namen, country: Netherlands, latitude: '51.293205', longitude: '4.162282', state: Zeeland
+- city: Nieuwe Tonge, country: Netherlands, latitude: '51.714193', longitude: '4.164818', state: South Holland
+- city: Nieuwenhoorn, country: Netherlands, latitude: '51.854575', longitude: '4.143859', state: South Holland
+- city: Nieuwersluis, country: '', latitude: '52.196668', longitude: '5.007771', state: ''
+- city: Nieuwkuijk, country: Netherlands, latitude: '51.691240', longitude: '5.180521', state: North Brabant
+- city: Nijmegen, country: Netherlands, latitude: '51.842575', longitude: '5.838961', state: nan
+- city: Nijmegen, country: Netherlands, latitude: '51.842575', longitude: '5.838961', state: Gelderland
+- city: North Brabant, country: Netherlands, latitude: '51.601772', longitude: '5.444139', state: Netherlands
+- city: Oegstgeest, country: Netherlands, latitude: '52.183367', longitude: '4.472129', state: South Holland
+- city: Offenou, country: Germany, latitude: '', longitude: '', state: Baden-Württemberg
+- city: Oirschot, country: Netherlands, latitude: '51.488962', longitude: '5.300595', state: North Brabant
+- city: Olpe, country: '', latitude: '51.029450', longitude: '7.843911', state: ''
+- city: Olpe, country: Germany, latitude: '51.029450', longitude: '7.843911', state: North Rhine Westphalia
+- city: Ontario, country: Canada, latitude: '50.000678', longitude: '-86.000977', state: Ontario
+- city: Ooltgensplaat, country: Netherlands, latitude: '51.682349', longitude: '4.347306', state: South Holland
+- city: Oosterbeck, country: Netherlands, latitude: '', longitude: '', state: Gelderland
+- city: Opeinde, country: Netherlands, latitude: '53.134328', longitude: '6.060079', state: Friesland
+- city: Oranjestad, country: Dutch West Indies, latitude: '', longitude: '', state: Aruba
+- city: Oss, country: Netherlands, latitude: '51.778354', longitude: '5.532084', state: North Brabant
+- city: Ottawa, country: Canada, latitude: '45.420878', longitude: '-75.690111', state: Ontario
+- city: Ouboed, country: Dutch East Indies, latitude: '', longitude: '', state: Bali
+- city: Palembang, country: Dutch East Indies, latitude: '', longitude: '', state: South Sumatra
+- city: Palermo, country: Italy, latitude: '38.111227', longitude: '13.352443', state: Sicily
+- city: Paramaribo, country: Surinam, latitude: '5.824176', longitude: '-55.166281', state: Dutch Guiana (old)
+- city: Paris, country: France, latitude: '48.853495', longitude: '2.348392', state: Île de France
+- city: Paris, country: France, latitude: '48.853495', longitude: '2.348392', state: Paris
+- city: Passy, country: France, latitude: '46.541284', longitude: '4.534342', state: Haute-Savoie
+- city: Pastorslaan, country: Netherlands, latitude: '', longitude: '', state: Hillegom
+- city: Patras, country: Greece, latitude: '38.246242', longitude: '21.735085', state: Western Greece
+- city: Pemalang, country: 'Dutch East Indies, Indonesia', latitude: '', longitude: '', state: Central Java
+- city: Poortugaal, country: Netherlands, latitude: '51.857753', longitude: '4.391410', state: South Holland
+- city: pres (near) Geneva, country: Switzerland, latitude: '', longitude: '', state: Geneva
+- city: Princenhage Breda, country: Netherlands, latitude: '51.577253', longitude: '4.739287', state: North Brabant
+- city: Purmerend, country: Netherlands, latitude: '52.502479', longitude: '4.961483', state: North Holland
+- city: Putten, country: Netherlands, latitude: '52.247730', longitude: '5.578274', state: Gelderland
+- city: Raamsdonksveer, country: Netherlands, latitude: '51.696135', longitude: '4.874589', state: North Brabant
+- city: Rainay, country: France, latitude: '46.614090', longitude: '-1.658546', state: Seine et Oise
+- city: Red Cross Zutphen, country: '', latitude: '', longitude: '', state: ''
+- city: Rhoon, country: '', latitude: '51.856995', longitude: '4.423682', state: ''
+- city: Roermond, country: Netherlands, latitude: '51.193390', longitude: '5.988265', state: Limburg
+- city: Roggel, country: '', latitude: '51.264149', longitude: '5.925449', state: ''
+- city: Roma, country: Italy, latitude: '41.893320', longitude: '12.482932', state: Rome/Lazio
+- city: Roma, country: Italy, latitude: '41.893320', longitude: '12.482932', state: Roma
+- city: Roodeschool, country: Netherlands, latitude: '53.419813', longitude: '6.766377', state: Groningen
+- city: Roosendaal, country: Netherlands, latitude: '51.533148', longitude: '4.456128', state: North Holland
+- city: Rotterdam, country: nan, latitude: '51.924442', longitude: '4.477750', state: South Holland
+- city: Rotterdam, country: Netherlands, latitude: '51.924442', longitude: '4.477750', state: South Holland
+- city: Rotterdam OS, country: '', latitude: '59.348243', longitude: '18.111364', state: ''
+- city: s Gravenhage, country: Netherlands, latitude: '52.074946', longitude: '4.269680', state: South Holland
+- city: s Gravenhage, country: '', latitude: '52.079984', longitude: '4.311346', state: ''
+- city: s Hertogenbosch, country: '', latitude: '51.688939', longitude: '5.303116', state: ''
+- city: s Hertogenbosch, country: Netherlands, latitude: '51.688939', longitude: '5.303116', state: North Brabant
+- city: s-Gravenhage, country: Netherlands, latitude: '52.074946', longitude: '4.269680', state: South Holland
+- city: s-Gravenpolder, country: Netherlands, latitude: '51.459116', longitude: '3.902288', state: Zeeland
+- city: s-Hertogenbosch, country: '', latitude: '51.688939', longitude: '5.303116', state: ''
+- city: s-Hertogenbosch, country: Netherlands, latitude: '51.688939', longitude: '5.303116', state: North Brabant
+- city: Sacramento, country: United States, latitude: '38.581061', longitude: '-121.493895', state: California
+- city: Sanary s/mer., country: France, latitude: '43.123990', longitude: '5.822824', state: Provence-Alpes-Cote d'Azur
+- city: Sanary-sur-Mer, country: France, latitude: '43.117724', longitude: '5.800884', state: Var
+- city: Santa Monica, country: United States, latitude: '34.019470', longitude: '-118.491227', state: California
+- city: Scheveningen, country: Netherlands, latitude: '52.106745', longitude: '4.273694', state: South Holland
+- city: Scheveningen, country: '', latitude: '52.106745', longitude: '4.273694', state: ''
+- city: Schiebroek, country: Netherlands, latitude: '51.960483', longitude: '4.469536', state: Rotterdam
+- city: Schiedam, country: Netherlands, latitude: '51.917180', longitude: '4.401915', state: South Holland
+- city: Schoonhoven, country: Netherlands, latitude: '51.946398', longitude: '4.851643', state: South Holland
+- city: Seewalchen am Attersee, country: '', latitude: '47.953920', longitude: '13.586684', state: ''
+- city: 'Serooskerke, Walcheren', country: Netherlands, latitude: '', longitude: '', state: Zeeland
+- city: sGravenhage, country: Netherlands, latitude: '', longitude: '', state: South Holland
+- city: sGravenhage/Veldpost, country: Netherlands, latitude: '', longitude: '', state: South Holland
+- city: Shaker Heights, country: United States, latitude: '41.473942', longitude: '-81.537067', state: Ohio
+- city: Shanghai, country: China, latitude: '31.231271', longitude: '121.470015', state: Jiangsu
+- city: Sint Oedenrode, country: Netherlands, latitude: '51.564643', longitude: '5.461000', state: North Brabant
+- city: Soerabaia, country: Dutch East Indies, latitude: '', longitude: '', state: East Java
+- city: Soestdijk, country: Netherlands, latitude: '52.193521', longitude: '5.279107', state: Utrecht
+- city: Souburg, country: Netherlands, latitude: '51.464556', longitude: '3.604206', state: Zeeland
+- city: St Leonards on Sea, country: England, latitude: '50.854144', longitude: '0.544849', state: Sussex
+- city: Steenwijkerwold, country: Netherlands, latitude: '52.804624', longitude: '6.064613', state: Overijssel
+- city: Sunnyside Pretoria, country: South Africa, latitude: '-25.766914', longitude: '28.199097', state: Gauteng
+- city: Sydney, country: Australia, latitude: '-33.869844', longitude: '151.208285', state: New South Wales
+- city: Terneuzen, country: Netherlands, latitude: '51.298843', longitude: '3.842204', state: Zeeland
+- city: Terschuur, country: '', latitude: '52.165412', longitude: '5.519546', state: ''
+- city: Terwolde, country: '', latitude: '52.281687', longitude: '6.099803', state: ''
+- city: Tholen, country: '', latitude: '51.570850', longitude: '4.076143', state: ''
+- city: Tholen, country: Netherlands, latitude: '51.570850', longitude: '4.076143', state: Zeeland
+- city: Tilburg, country: Netherlands, latitude: '51.585618', longitude: '5.066062', state: North Brabant
+- city: Tomohon, country: Dutch East Indies, latitude: '', longitude: '', state: Minahassa
+- city: Torino, country: Italy, latitude: '45.067755', longitude: '7.682489', state: Piedmont
+- city: Tuckahoe, country: United States, latitude: '40.950376', longitude: '-73.827356', state: New York
+- city: Ubachsberg, country: Netherlands, latitude: '50.854042', longitude: '5.948354', state: Limburg
+- city: Uccle, country: Belgium, latitude: '50.803544', longitude: '4.333845', state: Brussels
+- city: Uden, country: Netherlands, latitude: '51.659089', longitude: '5.614861', state: North Brabant
+- city: Utrecht, country: '', latitude: '52.090701', longitude: '5.121563', state: ''
+- city: Utrecht, country: Netherlands, latitude: '52.080986', longitude: '5.127684', state: Utrecht
+- city: Utrecht Station, country: Netherlands, latitude: '52.089393', longitude: '5.109821', state: Utrecht
+- city: Utrecht Station, country: '', latitude: '52.078757', longitude: '5.121878', state: ''
+- city: Utrecht-Station, country: '', latitude: '52.078757', longitude: '5.121878', state: ''
+- city: Valkenburg, country: Netherlands, latitude: '50.864753', longitude: '5.831252', state: Limburg
+- city: Vaud, country: Switzerland, latitude: '46.635696', longitude: '6.532072', state: Vaud
+- city: Veendam, country: Netherlands, latitude: '53.080752', longitude: '6.877303', state: Groningen
+- city: Veenendaal, country: Netherlands, latitude: '52.023204', longitude: '5.551800', state: Utrecht
+- city: Veere, country: Netherlands, latitude: '51.556404', longitude: '3.577269', state: Zeeland
+- city: Veghel, country: Netherlands, latitude: '51.613464', longitude: '5.544646', state: North Brabant
+- city: Veldhoven, country: Netherlands, latitude: '51.419069', longitude: '5.404557', state: North Brabant
+- city: Veldpost, country: Netherlands, latitude: '52.036201', longitude: '5.677303', state: nan
+- city: Veldpost, country: Netherlands, latitude: '52.036201', longitude: '5.677303', state: South Holland
+- city: Veldpost, country: Netherlands, latitude: '52.036201', longitude: '5.677303', state: North Brabant
+- city: "Veldpost 10, 'sGravenhage", country: Netherlands, latitude: '', longitude: '', state: South Holland
+- city: Veldpost 3, country: Netherlands, latitude: '52.036201', longitude: '5.677303', state: nan
+- city: Veldpost 6, country: Netherlands, latitude: '52.036265', longitude: '5.676849', state: nan
+- city: Veldpost 9, country: Netherlands, latitude: '52.036201', longitude: '5.677303', state: nan
+- city: Veldpost District North Brabant, country: Netherlands, latitude: '', longitude: '', state: North Brabant
+- city: 'Veldpost No. 4, Zutphen', country: Netherlands, latitude: '', longitude: '', state: Gelderland
+- city: 'Veldpost, Amsterdam', country: Netherlands, latitude: '', longitude: '', state: North Holland
+- city: 'Veldpost, Arnhem', country: Netherlands, latitude: '', longitude: '', state: Gelderland
+- city: Veldpostkantoor 11, country: Netherlands, latitude: '', longitude: '', state: Veenendaal
+- city: 'Veldpostkantoor 3 ', country: nan, latitude: '', longitude: '', state: nan
+- city: 'Veldpostkantoor 3 ', country: Netherlands, latitude: '', longitude: '', state: nan
+- city: Veldpostkantoor 6, country: Netherlands, latitude: '', longitude: '', state: North Holland
+- city: Veldpostkantoor 9, country: Netherlands, latitude: '', longitude: '', state: Zeeland
+- city: Velp, country: '', latitude: '51.995867', longitude: '5.975125', state: ''
+- city: Velp, country: Netherlands, latitude: '51.995867', longitude: '5.975125', state: Gelderland
+- city: Velsen, country: Netherlands, latitude: '52.451910', longitude: '4.603891', state: North Holland
+- city: Veltpost 66865E, country: '', latitude: '', longitude: '', state: ''
+- city: Venlo, country: Netherlands, latitude: '51.392449', longitude: '6.151172', state: Limburg
+- city: Vichy, country: France, latitude: '46.123927', longitude: '3.420371', state: Allies de Lyon-Rhone
+- city: Vienna, country: Austria, latitude: '48.208354', longitude: '16.372504', state: Vienna
+- city: Vierumaki, country: Finland, latitude: '61.104648', longitude: '25.932402', state: Paijat-Hame
+- city: Voldorp, country: Netherlands, latitude: '', longitude: '', state: Limburg
+- city: Voorburg, country: Netherlands, latitude: '52.070320', longitude: '4.355856', state: South Holland
+- city: Voorburg, country: '', latitude: '52.070320', longitude: '4.355856', state: ''
+- city: Voorschoten, country: Netherlands, latitude: '52.125722', longitude: '4.441017', state: South Holland
+- city: Vught, country: '', latitude: '51.651181', longitude: '5.236800', state: ''
+- city: Vught, country: Netherlands, latitude: '51.651181', longitude: '5.236800', state: 'North Brabant '
+- city: Wageningen, country: Netherlands, latitude: '51.968582', longitude: '5.668298', state: Gelderland
+- city: Wateringen, country: '', latitude: '52.023510', longitude: '4.274586', state: ''
+- city: Weert, country: Netherlands, latitude: '51.235583', longitude: '5.705080', state: Limburg
+- city: Weesp, country: Netherlands, latitude: '52.307259', longitude: '5.042082', state: North Holland
+- city: Wemeldinge, country: Netherlands, latitude: '51.518383', longitude: '3.995142', state: Zeeland
+- city: Werkendam, country: Netherlands, latitude: '51.807923', longitude: '4.898735', state: North Brabant
+- city: Wijk En Aalburg, country: Netherlands, latitude: '51.756427', longitude: '5.128269', state: North Brabant
+- city: Willemstad, country: Dutch West Indies, latitude: '', longitude: '', state: Curacao
+- city: Winschoten, country: '', latitude: '53.143001', longitude: '7.038072', state: ''
+- city: 'Winschoten ', country: Netherlands, latitude: '53.143001', longitude: '7.038072', state: Groningen
+- city: Woemsel  bij Eindhoven, country: Netherlands, latitude: '', longitude: '', state: North Brabant
+- city: Woemsel bij Eindhoven, country: Netherlands, latitude: '', longitude: '', state: North Brabant
+- city: Wolfheze, country: Netherlands, latitude: '52.005009', longitude: '5.792594', state: Gelderland
+- city: Wormerveer, country: Netherlands, latitude: '52.495222', longitude: '4.787657', state: North Holland
+- city: Wroclaw, country: Poland, latitude: '51.108978', longitude: '17.032669', state: Lower Silesia
+- city: Yonkers, country: United States, latitude: '40.931210', longitude: '-73.898747', state: New York
+- city: Zaandam, country: Netherlands, latitude: '52.442493', longitude: '4.829861', state: North Holland
+- city: Zevenbergen, country: Netherlands, latitude: '51.645044', longitude: '4.606154', state: North Brabant
+- city: Zoutelande, country: Netherlands, latitude: '51.501835', longitude: '3.487225', state: Zeeland
+- city: Zuiddorpe, country: Netherlands, latitude: '51.235153', longitude: '3.904357', state: Zeeland
+- city: Zurich, country: Switzerland, latitude: '47.374449', longitude: '8.541042', state: Zurich
+- city: Zutphen, country: Netherlands, latitude: '52.139693', longitude: '6.194772', state: Gelderland
+- city: Zutphen, country: '', latitude: '52.139693', longitude: '6.194772', state: ''
+- city: Zwolle, country: Netherlands, latitude: '52.514565', longitude: '6.097720', state: Overjissel
